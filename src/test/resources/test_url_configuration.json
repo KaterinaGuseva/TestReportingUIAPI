@@ -1,0 +1,7 @@
+{
+  "protocol": "http://",
+  "domain_name": "192.168.100.72",
+  "port": ":8080/",
+  "path_resource_ui": "web/",
+  "path_resource_api": "api/"
+}
